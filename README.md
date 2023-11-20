@@ -1,4 +1,4 @@
-![Stock Analysis GIF](invest-money.gif)
+![Stock Analysis GIF](investment-money.gif)
 
 # Stock-Analysis-Fund-Allocation-using-ML-tools
 
