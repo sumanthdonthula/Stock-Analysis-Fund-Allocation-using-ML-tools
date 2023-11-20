@@ -1,3 +1,5 @@
+![Stock Analysis GIF](invest-money.gif)
+
 # Stock-Analysis-Fund-Allocation-using-ML-tools
 
 It seems like you've shared an outline or a summary related to a project on Stock Analysis and Fund Allocation using Machine Learning tools. It's great to see that you've covered various aspects of the project, including data acquisition, statistical analysis, the use of machine learning models like RNN, and sentimental analysis.
