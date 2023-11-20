@@ -41,7 +41,7 @@ This project aims to analyze stock data for popular companies like Apple, Meta, 
 
 ## Acknowledgments
 
-- Sumanth Donthula (A20519856)
+- Sumanth Donthula
 
 ## Thank You
 
