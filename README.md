@@ -35,7 +35,7 @@ This project aims to analyze stock data for popular companies like Apple, Meta, 
 2. Follow the prompts to load data and perform analyses.
 3. View results in the debug and result views.
 
-## To Do
+## Optimal Portfolio
 
 1. Based on the results, formulate an investment strategy.
 2. Determine fund allocation for the specified stocks.
