@@ -41,10 +41,4 @@ This project aims to analyze stock data for popular companies like Apple, Meta, 
 2. Determine fund allocation for the specified stocks.
    - Example: If investing $100k, calculate the amount to be invested in each stock.
 
-## Acknowledgments
-
-- Sumanth Donthula
-
 ## Thank You
-
-We appreciate your interest in this stock analysis tool. Happy investing!
