@@ -34,6 +34,6 @@ This project aims to analyze stock data for popular companies like Apple, Meta, 
 2. Determine fund allocation for the specified stocks.
    - Example: If investing $100k, calculate the amount to be invested in each stock.
 
-![optimal portfolio](optimal portfolio.png)
+![optimal portfolio](Optimal Portfolio.png)
 
 ## Thank You
